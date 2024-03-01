@@ -73,6 +73,12 @@ build CMakeFiles/Tut1.dir/character.cpp.o: CXX_COMPILER__Tut1_unscanned_Debug /h
   OBJECT_DIR = CMakeFiles/Tut1.dir
   OBJECT_FILE_DIR = CMakeFiles/Tut1.dir
 
+build CMakeFiles/Tut1.dir/namespace_example.cpp.o: CXX_COMPILER__Tut1_unscanned_Debug /home/danielm/Programmieren/MCI/Tut_MdSE2/Tut1/namespace_example.cpp || cmake_object_order_depends_target_Tut1
+  DEP_FILE = CMakeFiles/Tut1.dir/namespace_example.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/Tut1.dir
+  OBJECT_FILE_DIR = CMakeFiles/Tut1.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Tut1
@@ -81,7 +87,7 @@ build CMakeFiles/Tut1.dir/character.cpp.o: CXX_COMPILER__Tut1_unscanned_Debug /h
 #############################################
 # Link the executable Tut1
 
-build Tut1: CXX_EXECUTABLE_LINKER__Tut1_Debug CMakeFiles/Tut1.dir/main.cpp.o CMakeFiles/Tut1.dir/item.cpp.o CMakeFiles/Tut1.dir/hero.cpp.o CMakeFiles/Tut1.dir/character.cpp.o
+build Tut1: CXX_EXECUTABLE_LINKER__Tut1_Debug CMakeFiles/Tut1.dir/main.cpp.o CMakeFiles/Tut1.dir/item.cpp.o CMakeFiles/Tut1.dir/hero.cpp.o CMakeFiles/Tut1.dir/character.cpp.o CMakeFiles/Tut1.dir/namespace_example.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Tut1.dir
   POST_BUILD = :
