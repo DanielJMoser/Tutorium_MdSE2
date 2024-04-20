@@ -1,0 +1,7 @@
+# ninja log v5
+2	362	1713543922791701798	CMakeFiles/Uez4_tut.dir/sorcerer.cpp.o	5855e24a1cc623a2
+2	378	1713543922805036613	CMakeFiles/Uez4_tut.dir/main.cpp.o	64d93420e4c3e05a
+1	456	1713543870775156948	CMakeFiles/Uez4_tut.dir/item.cpp.o	aafd584a07fbca14
+1	366	1713543922795035503	CMakeFiles/Uez4_tut.dir/hero.cpp.o	c35d483b91589a3
+1	363	1713543922791701798	CMakeFiles/Uez4_tut.dir/character.cpp.o	19cfe9474f3d6c60
+1	354	1713543922781700688	CMakeFiles/Uez4_tut.dir/fighter.cpp.o	2b484f4096d842c5
