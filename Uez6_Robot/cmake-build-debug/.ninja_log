@@ -1,0 +1,13 @@
+# ninja log v5
+1	43	1715350889337680177	CMakeFiles/Uez6_Robot.dir/Sensor.cpp.o	5ccf15454a2f334f
+2	306	1715350889601024291	CMakeFiles/Uez6_Robot.dir/RobotException.cpp.o	674329a89e8cd029
+1	324	1715350889621025110	CMakeFiles/Uez6_Robot.dir/CameraSensor.cpp.o	21145253d8a68d35
+0	413	1715350889707695325	CMakeFiles/Uez6_Robot.dir/main.cpp.o	d32e3a3301421c2c
+2	413	1715350889707695325	CMakeFiles/Uez6_Robot.dir/Motor.cpp.o	3d47bec5ba16571b
+2	492	1715350889787698600	CMakeFiles/Uez6_Robot.dir/Robot.cpp.o	c9e10a50b5d7441e
+1	211	1715350905171659292	CMakeFiles/Uez6_Robot.dir/DistanceSensor.cpp.o	96e1398afcf7dd9e
+1	214	1715350922889042788	CMakeFiles/Uez6_Robot.dir/CliffSensor.cpp.o	70c45a08e683c4fe
+4	412	1715352496216971664	CMakeFiles/Uez6_Robot.dir/Motor.cpp.o	3d47bec5ba16571b
+3	425	1715352496230305689	CMakeFiles/Uez6_Robot.dir/Sensor.cpp.o	5ccf15454a2f334f
+3	448	1715352496253640235	CMakeFiles/Uez6_Robot.dir/main.cpp.o	d32e3a3301421c2c
+4	543	1715352496346978415	CMakeFiles/Uez6_Robot.dir/Robot.cpp.o	c9e10a50b5d7441e
